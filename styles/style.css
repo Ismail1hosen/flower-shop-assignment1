@@ -108,6 +108,7 @@ li a:hover{
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
+
 }
 
 /* feature flowers style */
@@ -203,3 +204,22 @@ li a:hover{
     text-align: center;
     
 }
+/* instragram section style */
+.insta-heading{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 120px;
+    margin-bottom: 0;
+    padding: 20px;
+}
+
+.insta-flower{
+    margin: 0 240px;
+    display: flex;
+    gap: 25px;
+    padding-top: 45px;
+}
+
+/* latest deal section style */
