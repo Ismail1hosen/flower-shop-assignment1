@@ -146,12 +146,12 @@ li a:hover{
 .feature-img2{
     width: 370px;
     height: 370px;
-    padding: 130px 56px 0;
+    padding: 130px 50px 0;
 }
 .feature-img3{
-    width: 370px;
-    height: 370px;
-    padding: 170px 52px 0;
+    width: 314px;
+    height: 471px;
+    padding: 69px 70px 0;
 }
 
 .flower-name{
@@ -273,7 +273,7 @@ li a:hover{
 
 .footer-conteiner{
     background-color: #111010;
-    max-width: 1922px;
+    /* max-width: 1922px; */
     height: 449px;
 }
 
