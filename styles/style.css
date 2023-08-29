@@ -63,7 +63,7 @@ li a:hover{
     padding: 30px 0;
     
 }
-.text-primary{
+.banner-text{
     width: 670px;
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
@@ -86,4 +86,26 @@ li a:hover{
     border: 0;
     padding: 20px 40px;
     border-radius: 11px;
+}
+
+/* feature flower sections style of main section  */
+
+.feature-conteiner{
+    margin-top: 150px;
+}
+
+.feature-heading{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    
+}
+.feature-text{
+    color: rgba(39, 39, 39, 0.60);
+    /* width: 600px; */
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
 }
