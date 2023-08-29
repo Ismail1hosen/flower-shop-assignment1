@@ -161,3 +161,45 @@ li a:hover{
     line-height: 35px; /* 145.833% */
     text-decoration-line: underline;
 }
+
+/* start hot deal section style */
+.hot-deal{
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05)
+}
+.deal-conteiner{
+    display: flex;
+    gap: 170px;
+    margin: 0 400px 0 390px;
+    padding: 100px 0;
+    align-items: center;
+    justify-content: center;
+    
+}
+.deal-details{
+    /* width: 594px; */
+    text-align: center;
+}
+.deal-heading{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 0;
+    padding: 20px 0;
+}
+.deal-off{
+    color: #E55473;
+    font-size: 40px;
+    font-weight: 800;
+}
+.deal-btn{
+    border: 0;
+    padding: 20px 40px;
+    border-radius: 11px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    
+}
